@@ -1,0 +1,5 @@
+Test Report, Time: 10/05/2021 23:56:03
+Test status: FAILURE: Human was eliminated by: E, which was a Human
+Number of Enemies: 2
+
+Enemy Name | Type | Distance from Human when eliminated

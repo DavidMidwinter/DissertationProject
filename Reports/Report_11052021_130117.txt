@@ -1,0 +1,7 @@
+Test Report, Time: 11/05/2021 13:01:17
+Test status: FAILURE: Human was eliminated by: E, which was a Human
+Number of Enemies: 3
+
+Enemy Name | Type | Distance from Human when eliminated
+B | Robot | 3.266873
+A | Robot | 6.618916

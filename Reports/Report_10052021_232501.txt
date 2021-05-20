@@ -1,0 +1,6 @@
+Test Report, Time: 10/05/2021 23:25:01
+Test status: SUCCESSFUL
+Number of Enemies: 1
+
+Enemy Name | Type | Distance from Human when eliminated
+C | Human | 3.701003

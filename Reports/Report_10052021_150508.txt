@@ -1,0 +1,8 @@
+Test Report, Time: 10/05/2021 15:05:08
+Test status: SUCCESSFUL
+Number of Enemies: 3
+
+Enemy Name | Type | Distance from Human when eliminated
+Enemy (2) | Robot | 6.057668
+Enemy (1) | Robot | 9.362021
+Enemy | Human | 3.146433
